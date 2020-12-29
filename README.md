@@ -1,1 +1,1 @@
-# using bert for classification and keyword extraction
+# 這裡匯集了我使用BERT模型完成專題功能，包含分類、關鍵字排序，以及關鍵字抽取等任務所使用的程式，以及測試用的資料
